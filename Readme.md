@@ -1,5 +1,7 @@
 ## MorNet
 
+Implementation of the code accompanying the articleIsabelle Rocamora, Dino Ienco and Matthieu Ferry (31 Jan 2024) : Multisource deeplearning approach for automatic geomorphological mapping : the case of glacial moraines, Geo-spatial Information Science, https://doi.org/10.1080/10095020.2023.2292587.
+
 **1. Prérequis**
 - Python version 3.9.7
 - Tensorflow version 2.7.0
