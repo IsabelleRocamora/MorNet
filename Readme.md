@@ -1,6 +1,10 @@
 ## MorNet
 
-Implementation of the code accompanying the articleIsabelle Rocamora, Dino Ienco and Matthieu Ferry (31 Jan 2024) : Multisource deeplearning approach for automatic geomorphological mapping : the case of glacial moraines, Geo-spatial Information Science, https://doi.org/10.1080/10095020.2023.2292587.
+Implementation of the code accompanying the following article : 
+
+Isabelle Rocamora, Dino Ienco and Matthieu Ferry (31 Jan 2024) : Multisource deep learning approach for automatic geomorphological mapping : the case of glacial moraines, Geo-spatial Information Science, https://doi.org/10.1080/10095020.2023.2292587.
+
+MorNet is a convolutional neural network model for automatically mapping glacial moraines from satellite images at the same resolution (topographic, Sentinel-1 and Sentinel-2 imagery). The model needs to be trained on existing moraine mapping before it can be applied to new areas.
 
 **1. Prérequis**
 - Python version 3.9.7
